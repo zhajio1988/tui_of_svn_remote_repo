@@ -1,5 +1,5 @@
 # tui_of_svn_remote_repo
-  A python tui for svn remote repository
+  A python text-based user interface for svn remote repository
 # Libs for this tools  
   * curses lib for text based user interface.<br/>
   * svn lib  for wrapping the svn commandline client.<br/>

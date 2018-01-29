@@ -8,4 +8,7 @@
 # usage
   > python3.5 show_svn_remote_repo.py -url svn://judesvnrepo/12306_captcha <br/>
   > python3.5 show_svn_remote_repo.py -h
-  
+# display
+  ![demo](https://github.com/zhajio1988/tui_of_svn_remote_repo/blob/master/demo.png)
+# License
+   Apache 2.0 license.

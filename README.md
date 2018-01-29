@@ -7,6 +7,7 @@
   * tempfile lib for open file with gvim or emacs.
 # Usage
   > python3.5 show_svn_remote_repo.py -url svn://judesvnrepo/12306_captcha <br/>
+  > python3.5 show_svn_remote_repo.py -url svn://judesvnrepo/12306_captcha -editor emacs <br/>
   > python3.5 show_svn_remote_repo.py -h
 # Display
   ![demo](https://github.com/zhajio1988/tui_of_svn_remote_repo/blob/master/demo.png)
